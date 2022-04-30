@@ -1,0 +1,15 @@
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.csproj.AssemblyReference.cache
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.AssemblyInfoInputs.cache
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.AssemblyInfo.cs
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.csproj.CoreCompileInputs.cache
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\bin\Debug\net6.0\CaseOpening.exe
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\bin\Debug\net6.0\CaseOpening.deps.json
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\bin\Debug\net6.0\CaseOpening.runtimeconfig.json
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\bin\Debug\net6.0\CaseOpening.dll
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\bin\Debug\net6.0\CaseOpening.pdb
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.dll
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\refint\CaseOpening.dll
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.pdb
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\CaseOpening.genruntimeconfig.cache
+C:\Users\Lyxlu\Documents\ProggrameringProjects\CaseOpening\CaseOpening\obj\Debug\net6.0\ref\CaseOpening.dll
